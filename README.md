@@ -31,6 +31,10 @@ Please keep the code as clean and readable as you can.
       
 **2. Home screen:**
 This will hold some information related to the logged in user, along with a few tournament cards. Please follow the design as closely as possible:
+
+<img src="./app-dev-assignment.png" height=417 width=237/>
+
+
   a. API:
   
     i. Hit an API to fetch the data for the User Details section i.e. the UI elements above “Recommended for you” section. You can use any mocking server of your choice to create the API yourself.
